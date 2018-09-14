@@ -1,0 +1,42 @@
+body{
+    margin-top:40px
+}
+h1{
+    font-size: 60px;
+    padding-top: 10px;
+}
+h3{
+    margin-top: 20px;
+}
+.container{
+    margin-left : 80px;
+    margin-right : 80px;
+  }
+.left{
+    padding: 5%;
+    background-color: #eee;
+    border-radius: 5px;
+}
+.thum>img{
+    width: 100%;
+    padding: 4px;
+    }
+.thum{
+    padding: 1px;
+    background: white;
+    border-radius: 5px;
+}
+.thum-text{
+    padding: 10px;
+    text-align: center;
+}
+.left1{
+    padding-left: 18%;
+    padding-right: 18%;
+}
+ 
+.footer1{
+     text-align: center;
+
+}
+
